@@ -3,7 +3,7 @@ package com.hasandag.generics.introduction.generictypes;
 public class BoxMain {
     public static void main(String[] args) {
 
-        ///com.hasandag.generics.introduction.generictypes.BoxNonGeneric<Integer> integerBoxNonGeneric = new com.hasandag.generics.introduction.generictypes.BoxNonGeneric(); error
+        // BoxNonGeneric<Integer> integerBoxNonGeneric = new BoxNonGeneric(); // error
 
 
         Box<Integer> integerBox = new Box<>();
