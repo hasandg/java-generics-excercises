@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b7d0053f-4dc1-44c0-9eea-f812c9676d8a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hasandag/generics/introduction/genericsinheritanceandsubtypes/GenericsInheritanceAndSubtypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hasandag/generics/introduction/genericsinheritanceandsubtypes/IPayloadList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hasandag/generics/introduction/genericsinheritanceandsubtypes/PayloadList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hasandag/generics/introduction/genericsinheritanceandsubtypes/generics-subtypeRelationship.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hasandag/generics/introduction/typeinference/BoxDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hasandag/generics/introduction/typeinference/TypeInference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2.wildcards/src/com/hasandag/generics/wildcards/LowerBoundedWildcards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2.wildcards/src/com/hasandag/generics/wildcards/UnboundedWildcards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2.wildcards/src/com/hasandag/generics/wildcards/UpperBoundedWildcards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2.wildcards/src/com/hasandag/generics/wildcards/WildcardsAndSubtyping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2.wildcards/src/com/hasandag/generics/wildcards/wildcardcaptureandhelpermethods/WildcardError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2.wildcards/src/com/hasandag/generics/wildcards/wildcardcaptureandhelpermethods/WildcardFixed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.generics-introduction/META-INF/1.generics-introduction.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/1.generics-introduction/com/hasandag/generics/introduction/boundedtypeparameters/NaturalNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/1.generics-introduction/com/hasandag/generics/introduction/boundedtypeparameters/NaturalNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hasandag/generics/introduction/generictypes/BoxMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hasandag/generics/introduction/generictypes/BoxMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hasandag/generics/introduction/generictypes/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hasandag/generics/introduction/generictypes/Main1.java" afterDir="false" />
-    </list>
+    <list default="true" id="b7d0053f-4dc1-44c0-9eea-f812c9676d8a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -164,7 +145,7 @@
       <workItem from="1570815169143" duration="347000" />
       <workItem from="1570909035726" duration="738000" />
       <workItem from="1570909854076" duration="4868000" />
-      <workItem from="1570994670510" duration="2003000" />
+      <workItem from="1570994670510" duration="2188000" />
     </task>
     <servers />
   </component>
